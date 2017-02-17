@@ -22,6 +22,7 @@
 		B4EC76561E572B0100EB7C95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4EC76591E572B0100EB7C95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4EC765B1E572B0100EB7C95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4EC76611E572B3E00EB7C95 /* code exercise.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "code exercise.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		B4EC76431E572B0000EB7C95 = {
 			isa = PBXGroup;
 			children = (
+				B4EC76611E572B3E00EB7C95 /* code exercise.playground */,
 				B4EC764E1E572B0100EB7C95 /* code exercise */,
 				B4EC764D1E572B0100EB7C95 /* Products */,
 			);
